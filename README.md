@@ -22,7 +22,6 @@ This repository contains my HackerRank problem-solving practice for 3rd semester
 
 ![Local Output](01-Diagonal-Difference/screenshots/diagonal-difference-output.png)
 
-
 ### 2. Dynamic Array
 
 - Language: Python
@@ -43,7 +42,6 @@ This repository contains my HackerRank problem-solving practice for 3rd semester
 
 ![Local Output](02-Dynamic-Array/screenshots/dynamic-array-output.png)
 
-
 ### 3. Time Conversion
 
 - Language: Python
@@ -61,7 +59,6 @@ This repository contains my HackerRank problem-solving practice for 3rd semester
 ![HackerRank Success](03-Time-Conversion/screenshots/time-conversion-success.png)
 
 ![Local Output](03-Time-Conversion/screenshots/time-conversion-output.png)
-
 
 ### 4. Compare the Triplets
 
@@ -83,7 +80,6 @@ This repository contains my HackerRank problem-solving practice for 3rd semester
 
 ![Local Output](04-Compare-the-Triplets/screenshots/compare-triplets-output.png)
 
-
 ### 5. Sparse Arrays
 
 - Language: Python
@@ -104,7 +100,6 @@ This repository contains my HackerRank problem-solving practice for 3rd semester
 
 ![Local Output](05-Sparse-Arrays/screenshots/sparse-arrays-output.png)
 
-
 ## Complexity Summary
 
 | Problem | Time Complexity | Space Complexity |
@@ -117,11 +112,13 @@ This repository contains my HackerRank problem-solving practice for 3rd semester
 
 ## HackerRank Profile
 
-HackerRank Profile: Add your HackerRank profile link here.
+HackerRank Profile: https://www.hackerrank.com/profile/srushtimykal99
 
 ## HackerRank Badge
 
-Add the screenshot of the required 3-star badge here.
+### HackerRank 3-Star Badge
+
+![HackerRank 3-Star Problem Solving Badge](badge/problem-solving-3-star-badge.png)
 
 ## Optimization Reflection
 
